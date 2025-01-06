@@ -1,6 +1,5 @@
 # Hey there, I’m Orhan Benli 👋 
 Computer Science student at the University of Waterloo
-- 🚀 I’m interested in stocks, ETFs and cryptocurrencies! 
 - 📫 How to reach me: obenli@uwaterloo.ca
 
 <!---
